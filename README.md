@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Shankar Acharya
-- 👀 I’m Data Analyst
-- 🌱 I’m currently learning the field of Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me: mail to: sacharya806@gmail.com
 
 <!---
